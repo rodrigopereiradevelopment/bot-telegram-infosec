@@ -16,11 +16,11 @@ Um bot focado em utilitários de segurança da informação, desenvolvido em Pyt
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/rodrigopereiradevelopment/bot-telegram-infosec.git]
+   git clone[https://github.com/rodrigopereiradevelopment/bot-telegram-infosec.git]
 ```
 
-2. **Crie um ambiente virtual e instale as dependências:**
 
+2. **Crie um ambiente virtual e instale as dependências:**
 ```bash
 python3 -m venv venv
 source venv/bin/activate
