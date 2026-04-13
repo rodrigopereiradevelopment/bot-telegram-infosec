@@ -13,8 +13,6 @@ Um bot focado em utilitários de segurança da informação, desenvolvido em Pyt
 - **Segurança**: `python-dotenv` (Gestão de variáveis de ambiente) e `secrets` (Criptografia).
 
 ## 🔧 Como Rodar o Projeto
-Markdown
-## 🔧 Como Rodar o Projeto
 
 1. **Clone o repositório:**
    ```bash
@@ -28,6 +26,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 3. **Configure o arquivo .env:**
+
 Crie um arquivo chamado .env na raiz do projeto e adicione seu token:
 
 Plaintext
@@ -39,4 +38,5 @@ Bash
 python bot.py
 
 📄 **Licença**
+
 Este projeto está sob a licença MIT.
