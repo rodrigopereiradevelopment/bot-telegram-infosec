@@ -16,26 +16,30 @@ Um bot focado em utilitários de segurança da informação, desenvolvido em Pyt
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/rodrigopereiradevelopment/bot-telegram-infosec.git](https://github.com/rodrigopereiradevelopment/bot-telegram-infosec.git)
+   git clone [https://github.com/rodrigopereiradevelopment/bot-telegram-infosec.git]
+```
 
 2. **Crie um ambiente virtual e instale as dependências:**
 
-Bash
+```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
 3. **Configure o arquivo .env:**
 
 Crie um arquivo chamado .env na raiz do projeto e adicione seu token:
 
-Plaintext
+```Plaintext
 TELEGRAM_TOKEN=seu_token_aqui
+```
 
 4. **Execute o bot:**
 
-Bash
+```bash
 python bot.py
+```
 
 📄 **Licença**
 
